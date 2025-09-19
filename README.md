@@ -9,6 +9,13 @@ It is designed for **students, instructors, and networking enthusiasts** who wan
 - **File:** `Wireless LAN network.pkt`  
 - **Size:** ~40 KB  
 - **Format:** Cisco Packet Tracer simulation file  
+---
+
+## 📂 Network Topology
+
+below isthe screenshot of the LAN built in Packet Tracer: 
+![network Topology](/SC.PNG)
+> if the image does not display, please open the "screenshot/SC.png" file directly in this repository. 
 
 ---
 
